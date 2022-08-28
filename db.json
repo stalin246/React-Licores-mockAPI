@@ -1,0 +1,102 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "licores": [
+    {
+      "nombre": "Cerveza",
+      "porcentaje": "8",
+      "precio": "2",
+      "stock": "70",
+      "tipo": "Bebidas alcocholicas fermentadas",
+      "descripcion": "Eso me causa conflicto amigo",
+      "id": 2
+    },
+    {
+      "nombre": "vodka",
+      "porcentaje": "4",
+      "precio": "5",
+      "stock": "2",
+      "tipo": "Bebidas alcocholicas fermentadas",
+      "descripcion": "es una..",
+      "id": 3
+    },
+    {
+      "nombre": "ron",
+      "porcentaje": "85",
+      "precio": "5",
+      "stock": "5",
+      "tipo": "Bebidas alcocholicas preparadas",
+      "descripcion": "es un...",
+      "id": 4
+    },
+    {
+      "nombre": "punta",
+      "porcentaje": "70",
+      "precio": "2",
+      "stock": "1",
+      "tipo": "Bebidas alcocholicas preparadas",
+      "descripcion": "es una..",
+      "id": 5
+    },
+    {
+      "nombre": "coctel",
+      "porcentaje": "40",
+      "precio": "6",
+      "stock": "2",
+      "tipo": "Otras",
+      "descripcion": "es una..",
+      "id": 6
+    },
+    {
+      "nombre": "tequila",
+      "porcentaje": "40",
+      "precio": "5",
+      "stock": "5",
+      "tipo": "Bebidas alcocholicas fermentadas",
+      "descripcion": "es una..",
+      "id": 7
+    },
+    {
+      "nombre": "aguardiente",
+      "porcentaje": "60",
+      "precio": "5",
+      "stock": "4",
+      "tipo": "Bebidas alcocholicas preparadas",
+      "descripcion": "es una..",
+      "id": 8
+    },
+    {
+      "nombre": "vino",
+      "porcentaje": "45",
+      "precio": "4",
+      "stock": "4",
+      "tipo": "Bebidas alcocholicas destiladas",
+      "descripcion": "es una",
+      "id": 9
+    },
+    {
+      "nombre": "ron",
+      "porcentaje": "45",
+      "precio": "8",
+      "stock": "4",
+      "tipo": "Bebidas alcocholicas destiladas",
+      "descripcion": "dsd",
+      "id": 10
+    }
+  ]
+}
